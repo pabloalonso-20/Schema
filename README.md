@@ -1,2 +1,2 @@
 # Schema
-![Schema](filename.png)
+![Schema](schema_ss.png)
